@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chatbot1</string>
+    <string name="channel_name">ChatBot Channel</string>
+    <string name="channel_description">Channel description</string>
+</resources>
